@@ -25,7 +25,7 @@ Do "nada" para "tudo", a distância não é tão longa quanto parece :)
 
 Observações Importantes:
 
-- Esse material é organizado para um curso de 60h semestrais, ou seja, aproximadamente 15 semanas.
+- Esse material é organizado para um curso de 60h semestrais com 4h de aula semanais (2h teórica + 2h prática), ou seja, aproximadamente 15 semanas.
 - É esperado um tempo hábil para 12 semanas de conteúdos, além das avaliações (provas, reposições, provas finais, etc), sendo assim, o curso proposto é bastante enxuto, mas completo! 
    * foi cortado MUITO material para caber nesse curto espaço de tempo com alguma folga!!!
 - Caso sintam que é necessário reforçar algum conteúdo, é possível que caiba no tempo das 60h, por isso é RECOMENDADO somente ir dos módulos 1 ao 10, sendo o 11 e 12 tópicos extras.
