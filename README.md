@@ -40,7 +40,7 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
       - **Conceitos novos:** *variável*, *constante*, *tipos de variáveis*, *tipos básicos `int`, `float`, `bool`, `str`*, *operador =*, *atribuição múltipla*, *built-ins de conversão de tipos*, *operadores +, -, \*, /, //, \*\* e %*, *`type()`*, *interpolação com fstring*, *built-in `id()`*, *entrada padrão*, *built-in `input()`*
       - Slides:
           * Aula Teórica 1: [Slides Yuri - Introdução](./slides_yuri/01-Introducao.pdf)
-          * Final Aula Teórica 1 - Exercício para Casa: Instalar IDE Python (https://docs.google.com/presentation/d/1Qpy__44wEB0ISV-P02z7KBqkC94hk6nNnGcuhLBJnVA/edit?usp=sharing)
+          * Final Aula Teórica 1 - Exercício para Casa: Instalar IDE Python ([Breve Introdução IDE Python (2025)](https://docs.google.com/presentation/d/1Qpy__44wEB0ISV-P02z7KBqkC94hk6nNnGcuhLBJnVA/edit?usp=sharing))
           * Aula Prática 1: [Slides Yuri - Organização](./slides_yuri/01P-Organizacao.pdf)
    2. Decisão
       - **Conceitos novos:** *indentação*, *`if`*, *operadores ==, `and`, `or`, `not`, >, <, >=, <=*, *`else`*, *`elif`*
@@ -81,14 +81,14 @@ II. Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes de programa
       - Exemplo de métodos de Python, como `sqrt()`, `max()`, etc (porém, evitar *import* ainda!)
       - Não ensinar tipos agregados/heterogêneos ainda!
       - Slides:
-          * Aula Teórica: https://docs.google.com/presentation/d/1ts0dM3DUxT94nJlX2B9zFgdOac_riwScsFPh89lsd40/edit?usp=sharing
+          * Aula Teórica: [Cap. 7 - Rotinas (Modularização I)](https://docs.google.com/presentation/d/1ts0dM3DUxT94nJlX2B9zFgdOac_riwScsFPh89lsd40/edit?usp=sharing)
    7. Funções Recursivas e de Ordem Superior (Modularização II)
       - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, *estouro de pilha / stack overflow*, *recursão de cauda*, *caso base vs caso recursivo*
       - Exemplo com fibonacci e torres de hanoi (Desafio!)
       - Exemplo de Busca, inclusive, Busca Ordenada
       - Exemplo clássico: `x = list(map(int, s.split()))`
       - Slides:
-          * Aula Teórica: https://docs.google.com/presentation/d/1iFrVHO-atR6QjiWhnkxgnvjHOqY6v7KsRo-T2L1-quw/edit?usp=sharing
+          * Aula Teórica: [Cap. 8 - Funções Recursivas e de Ordem Superior](https://docs.google.com/presentation/d/1iFrVHO-atR6QjiWhnkxgnvjHOqY6v7KsRo-T2L1-quw/edit?usp=sharing)
    8. Ordenação e Agregados Heterogêneos (Modularização III)
          - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, *`class`*, *métodos dunder*, *`__init__`*, *`__str__`*
       - Slides:
