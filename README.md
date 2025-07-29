@@ -114,8 +114,9 @@ III. Parte 3 (apoio total de assistentes de programação)
 
    10. Escrita/Leitura de Arquivos Texto
       - Slides:
-          * Aula Teórica 10: [Slides Yuri - Matrizes](./slides_yuri/10-Arquivos.pdf)
-          * Aula Prática 10: [Slides Yuri - LAB Matrizes](./slides_yuri/10P-LAB-Arquivos.pdf)
+          * Aula Teórica 10: [Slides Yuri - Arquivos](./slides_yuri/10-Arquivos.pdf)
+          * Aula Prática 10: [Slides Yuri - LAB Arquivos](./slides_yuri/10P-LAB-Arquivos.pdf)
+          * A fazer: aumentar conteúdo nessa parte! Ideia: tratamento de exceções? É comum em arquivos...
           
    - Revisão de Conteúdo
    - Última avaliação ou Trabalho
