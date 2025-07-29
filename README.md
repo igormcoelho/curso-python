@@ -70,6 +70,7 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
    - Listas de Exercícios
       * [Lista 01 Decisão Yuri](./listas-exercicios/Lista-01-Decisao-Yuri.pdf)
       * [Lista 02 Repetição Yuri](./listas-exercicios/Lista-02-Repeticao-Yuri.pdf)
+      * Lista Prática (a fazer!) - Uso de GitHub / Notebooks / assistentes de programação
 
    - Primeira avaliação escrita: sem consulta e sem utilizar recursos de linguagem mais avançados (como listas e for-range/repetições contáveis)!
 
