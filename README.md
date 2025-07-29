@@ -125,6 +125,7 @@ III. Parte 3 (apoio total de assistentes de programação)
           * Aula Teórica 11: [Slides Yuri - Arquivos](./slides_yuri/10-Arquivos.pdf)
           * Aula Prática 11: [Slides Yuri - LAB Arquivos](./slides_yuri/10P-LAB-Arquivos.pdf)
           * A fazer: aumentar conteúdo nessa parte! Ideia: tratamento de exceções? É comum em arquivos...
+          * OBS: o Cap 11 pode ser oferecido juntamente com o Cap 10, da forma como está.
           
    - Revisão de Conteúdo
    - Última avaliação ou Trabalho
