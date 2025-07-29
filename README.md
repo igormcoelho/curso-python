@@ -28,7 +28,7 @@ Observações Importantes:
 - Esse material é organizado para um curso de 60h semestrais com 4h de aula semanais (2h teórica + 2h prática), ou seja, aproximadamente 15 semanas.
 - É esperado um tempo hábil para 12 semanas de conteúdos, além das avaliações (provas, reposições, provas finais, etc), sendo assim, o curso proposto é bastante enxuto para caber no tempo, mas ainda assim, completo.
 - Caso sintam que é necessário reforçar algum conteúdo, é possível que caiba no tempo das 60h, por isso é RECOMENDADO somente ir dos módulos 1 ao 11, sendo o 12 e 13 tópicos extras.
-- Agradecimentos ao Prof. Yuri Frota, cujos materiais complementam diversos tópicos desse curso. No futuro, todos materiais do prof Yuri serão devidamente adaptados para as particularidades da lógica desse curso, restando apenas esse agradecimento.
+- Agradecimentos ao Prof. Yuri Frota, cujos materiais complementam diversos tópicos desse curso. No futuro, todos materiais dessa página serão reconstruídos do zero para as particularidades e organização desse curso, restando apenas esse agradecimento.
 
 I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assistentes de programação!)
    -  Objetivo: lógica de programação básica com Python
