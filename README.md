@@ -57,24 +57,32 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
       - Slides:
           * Aula Teórica 4: Slides - Laços Aninhados (A FAZER!) - Não usar for!
           * Aula Prática 4: [Slides Yuri - LAB Laços Aninhados](./slides_yuri/04P-LAB-Lacos-Aninhados.pdf)
+          
+   5. Depuração e Uso de Assistentes de Programação
+      - **Conceitos novos:** *`prompt`*, *LLM*, *GPT*, *IDE (reforço)*, *depuração*, etc
+      - Slides:
+          * A Fazer!
+      - A aula teórica irá focar em aspectos de depuração de código, como "fazer o chinês" na mão, e também mostrar como ferramentas de depuração em IDEs podem ajudar a rastrear problemas
+      - A aula prática irá trazer tarefas mais complexas e ver como assistentes de programação podem ajudar, buscando lidar com seus erros, alucinações, fuga do escopo e estratégias para contornar essas limitações
+      - Extra: aula prática de jogo da velha - [Yuri Completar Programação Python](http://profs.ic.uff.br/~yuri/python/velha.py) 
 
    - Revisão de Conteúdo
    - Listas de Exercícios
       * [Lista 01 Decisão Yuri](./listas-exercicios/Lista-01-Decisao-Yuri.pdf)
       * [Lista 02 Repetição Yuri](./listas-exercicios/Lista-02-Repeticao-Yuri.pdf)
-   - Extra: aula prática de jogo da velha - [Yuri Completar Programação Python](http://profs.ic.uff.br/~yuri/python/velha.py) 
+
    - Primeira avaliação escrita: sem consulta e sem utilizar recursos de linguagem mais avançados (como listas e for-range/repetições contáveis)!
 
 II. Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes de programação)
    -  Objetivo: vetores como listas, tipos compostos e funções
 
-   5. Cap.5 - Vetores, Listas, Ranges
+   6. Cap.6 - Vetores, Listas, Ranges
       - **Conceitos novos:** *built-in `list()`*, *built-in `range()`*, *`for`*, *`in`*, *tipo de valor vs tipo de referência*,  *operador +*, *operador \**, *built-in `len()`*, *built-in `del`*, *slices*
       - Slides:
           * Aula Teórica 5: [Slides Yuri - Vetores](./slides_yuri/05-Vetores.pdf)
           * Aula Prática 5: [Slides Yuri - LAB Vetores](./slides_yuri/05P-Vetores.pdf)
           * Extra: adicionar material sobre *for* e remover menções a Dicionários (não faz parte do conteúdo!)
-   6. Cap.6 - Rotinas (Modularização I)
+   7. Cap.7 - Rotinas (Modularização I)
       - **Conceitos novos:** *`def`*, *rotinas*, *funções*, *procedimentos*, *`return`*, *parâmetros*, *argumentos*, *passagem por valor vs passagem por referência*, *pilha de execução*, *escopo de variáveis (reforço)*, *`global`*,  *argumentos posicionais vs nomeados*, *operador ponto (.) para acesso de funções built-ins* 
       - Exemplo de métodos do list, como `.split()`, `.append()`, `.sort()`, etc
       - Exemplo de métodos de strings, como `.split()`
@@ -82,14 +90,14 @@ II. Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes de programa
       - Não ensinar tipos agregados/heterogêneos ainda!
       - Slides:
           * Aula Teórica: [Cap. 7 - Rotinas (Modularização I)](https://docs.google.com/presentation/d/1ts0dM3DUxT94nJlX2B9zFgdOac_riwScsFPh89lsd40/edit?usp=sharing)
-   7. Cap.7 - Funções Recursivas e de Ordem Superior (Modularização II)
+   8. Cap.8 - Funções Recursivas e de Ordem Superior (Modularização II)
       - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, *estouro de pilha / stack overflow*, *recursão de cauda*, *caso base vs caso recursivo*
       - Exemplo com fibonacci e torres de hanoi (Desafio!)
       - Exemplo de Busca, inclusive, Busca Ordenada
       - Exemplo clássico: `x = list(map(int, s.split()))`
       - Slides:
           * Aula Teórica: [Cap. 8 - Funções Recursivas e de Ordem Superior](https://docs.google.com/presentation/d/1iFrVHO-atR6QjiWhnkxgnvjHOqY6v7KsRo-T2L1-quw/edit?usp=sharing)
-   8. Cap.8 - Ordenação e Agregados Heterogêneos (Modularização III)
+   9. Cap.9 - Ordenação e Agregados Heterogêneos (Modularização III)
          - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, *`class`*, *métodos dunder*, *`__init__`*, *`__str__`*
       - Slides:
           * A fazer!
@@ -105,17 +113,17 @@ II. Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes de programa
 
 III. Parte 3 (apoio total de assistentes de programação)
 
-   9. Cap.9 - Matrizes, *List Comprehension* e Pacotes/Importação (Modularização IV)
+   10. Cap.10 - Matrizes, *List Comprehension* e Pacotes/Importação (Modularização IV)
       - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, `import`
       - Slides:
           * Aula Teórica 10: [Slides Yuri - Matrizes](./slides_yuri/09-Matrizes.pdf)
           * Aula Prática 10: [Slides Yuri - LAB Matrizes](./slides_yuri/09P-Matrizes.pdf)
           * A fazer: slides de list comprehension e de importação de pacotes
 
-   10. Cap.10 - Escrita/Leitura de Arquivos Texto
+   11. Cap.11 - Escrita/Leitura de Arquivos Texto
       - Slides:
-          * Aula Teórica 10: [Slides Yuri - Arquivos](./slides_yuri/10-Arquivos.pdf)
-          * Aula Prática 10: [Slides Yuri - LAB Arquivos](./slides_yuri/10P-LAB-Arquivos.pdf)
+          * Aula Teórica 11: [Slides Yuri - Arquivos](./slides_yuri/10-Arquivos.pdf)
+          * Aula Prática 11: [Slides Yuri - LAB Arquivos](./slides_yuri/10P-LAB-Arquivos.pdf)
           * A fazer: aumentar conteúdo nessa parte! Ideia: tratamento de exceções? É comum em arquivos...
           
    - Revisão de Conteúdo
@@ -128,15 +136,16 @@ IV. Parte 4 - Programação avançada em Python (Extra!)
    - Não é esperado que haja tempo hábil para ensinar isso em um curso regular de 60h semestrais
        * Mas fica como bônus para os alunos mais curiosos!
 
-   11. Cap.11 - Corrotinas, Geradores e Iteradores
-      - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, `yield`, `next()`, ...
-      - Slides:
-         * A fazer!
-
    12. Cap.12 - Dicionários
       - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, `dict`, ...
       - Slides:
          * A fazer!
+         
+   13. Cap.13 - Corrotinas, Geradores e Iteradores
+      - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, `yield`, `next()`, ...
+      - Slides:
+         * A fazer!
+
          
 V. Trabalho
 
