@@ -1,6 +1,6 @@
-## Curso de Lógica de Programação e Python
+## Curso de Lógica de Programação em Python
 
-Materiais gerais de Lógica de Programação e Python do [Prof. Igor Machado Coelho](https://igormcoelho.github.io), bem como suas respectivas aplicações em períodos recentes.
+Materiais gerais de Lógica de Programação em Python do [Prof. Igor Machado Coelho](https://igormcoelho.github.io), bem como suas respectivas aplicações em períodos recentes.
 
 ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/curso-python)
 
