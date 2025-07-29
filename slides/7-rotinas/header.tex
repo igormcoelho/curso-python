@@ -1,0 +1,94 @@
+% nothing here
+
+\useoutertheme{infolines}
+
+% https://tex.stackexchange.com/questions/56860/how-to-modify-outer-theme-infolines-to-include-the-title-and-section-in-the-head
+\setbeamertemplate{headline}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,right,rightskip=1em]{section in head/foot}%
+    \usebeamerfont{subsection in head/foot}\hspace*{2ex}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,left,leftskip=1em]{subsection in head/foot}%
+    \usebeamerfont{section in head/foot}\insertsectionhead\hspace*{2ex}
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\usepackage{xcolor}
+
+%\usepackage[3D]{movie15}
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks = true,
+    linkbordercolor = {white},
+    linkcolor = {orange}
+}
+\usepackage[UKenglish]{babel}
+
+\usepackage{media9}[2015/11/02]
+
+\newcommand{\columnsbegin}{\begin{columns}}
+\newcommand{\columnsend}{\end{columns}}
+
+\newcommand{\col}[1]{\column{#1\textwidth}}
+
+%\usepackage[nameinlink]{cleveref} % nameInLink used on pandoc-crossref too (see cref option too)
+
+\usepackage[ruled,vlined,linesnumbered]{algorithm2e}
+
+\usepackage{xcolor}
+
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+
+\usepackage{listings}
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{magenta},
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    % https://tex.stackexchange.com/questions/407272/generatesssupporting-c14-digit-separators-in-listings-package#407354
+    %postbreak=\raisebox{0ex}[0ex][0ex]{\ensuremath{\hookrightarrow\space}},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=2,
+    inputencoding=utf8,
+    extendedchars=true,
+    literate=
+    {á}{{\'a}}1 {é}{{\'e}}1 {í}{{\'i}}1 
+    {ó}{{\'o}}1 {ú}{{\'u}}1 {Á}{{\'A}}1 
+    {É}{{\'E}}1 {Í}{{\'I}}1 {Ó}{{\'O}}1
+    {Ú}{{\'U}}1 {à}{{\`a}}1 {è}{{\`e}}1 
+    {ì}{{\`i}}1 {ò}{{\`o}}1 {ù}{{\`u}}1
+    {À}{{\`A}}1 {È}{{\'E}}1 {Ì}{{\`I}}1
+    {Ò}{{\`O}}1 {Ù}{{\`U}}1 {ä}{{\"a}}1
+    {ë}{{\"e}}1 {ï}{{\"i}}1 {ö}{{\"o}}1
+    {ü}{{\"u}}1 {Ä}{{\"A}}1 {Ë}{{\"E}}1 
+    {Ï}{{\"I}}1 {Ö}{{\"O}}1 {Ü}{{\"U}}1
+    {â}{{\^a}}1 {ê}{{\^e}}1 {î}{{\^i}}1
+    {ô}{{\^o}}1 {û}{{\^u}}1 {Â}{{\^A}}1
+    {Ê}{{\^E}}1 {Î}{{\^I}}1 {Ô}{{\^O}}1
+    {Û}{{\^U}}1 {œ}{{\oe}}1 {Œ}{{\OE}}1
+    {æ}{{\ae}}1 {Æ}{{\AE}}1 {ű}{{\H{u}}}1 
+    {Ű}{{\H{U}}}1 {ő}{{\H{o}}}1 {Ő}{{\H{O}}}1
+    {ç}{{\c c}}1 {Ç}{{\c C}}1 {ø}{{\o}}1
+    {å}{{\r a}}1 {Å}{{\r A}}1 {£}{{\pounds}}1
+    {«}{{\guillemotleft}}1 {»}{{\guillemotright}}1
+    {ñ}{{\~n}}1 {Ñ}{{\~N}}1 {¿}{{?`}}1
+    {ã}{{\~a}}1
+}
+
+\lstset{style=mystyle}
+

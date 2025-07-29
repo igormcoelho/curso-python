@@ -1,0 +1,36 @@
+MDFILE=7-rotinas.md
+OUTHTML=index.html
+OUTPDF=7-rotinas.pdf
+
+all: deps
+	/usr/bin/pandoc -s -V revealjs-url=./reveal.js --standalone -V theme=beige -s -t revealjs \
+         --filter pandoc-katex --css katex.min.css \
+	$(MDFILE) -o $(OUTHTML) --slide-level 2 # --toc
+	# sed -i 's|//dist/|/dist/|g' index.html
+	#
+	#
+	# -F pandoc-crossref
+	/usr/bin/pandoc --toc -s --embed-resources --standalone --filter pandoc-latex-fontsize -V theme:Warsaw -t beamer \
+	 -H header.tex --listings \
+		$(MDFILE) -o $(OUTPDF) --slide-level 2
+# $(OUTPDF)
+
+#--filter pandoc-source-exec
+
+run:
+	python3 -m http.server 8081
+	#python2 -m SimpleHTTPServer 8081
+
+env:
+	source ~/.cargo/env
+	conda activate
+
+deps: reveal.js
+	wget -nc https://cdn.jsdelivr.net/npm/katex@0.16.21/dist/katex.min.css
+	# wget -nc https://github.com/hakimel/reveal.js/archive/refs/tags/5.2.1.tar.gz
+	# tar -xzvf 5.2.1.tar.gz && mv reveal.js-5.2.1 reveal.js
+
+reveal.js:
+	wget -nc https://github.com/hakimel/reveal.js/archive/refs/tags/5.2.1.tar.gz
+	tar -xzvf 5.2.1.tar.gz
+	[ -d reveal.js ] || mv reveal.js-5.2.1 reveal.js
