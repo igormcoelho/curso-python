@@ -53,6 +53,7 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
       - Slides:
           * Aula Teórica 3: [Slides Yuri - Repetição Condicional](./slides_yuri/03-Repeticao-Condicional.pdf)
           * Aula Prática 3: [Slides Yuri - LAB Repetição Condicional](./slides_yuri/03P-Repeticao-Condicional.pdf)
+
    4. Repetição Contável e Laços Aninhados
       - **Conceitos novos:** *`for`*, *built-in `range`*, *`continue`*, *`pass`*, *escopo de variáveis (reforço)*, *indentação (reforço)*
       - Slides:
@@ -76,7 +77,7 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
 
    - Primeira avaliação escrita: sem consulta e sem utilizar recursos de linguagem mais avançados (como listas e for-range/repetições contáveis)!
 
-II. Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes de programação)
+II. Parte 2 - Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes de programação)
    -  Objetivo: vetores como listas, tipos compostos e funções
 
    6. Cap.6 - Vetores, Listas, Ranges
