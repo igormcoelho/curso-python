@@ -1,7 +1,7 @@
 ---
 author: Igor Machado Coelho
 title: Programação I
-subtitle: Repetição Condicional
+subtitle: Repetição Condicional e Repetição Contável
 date: 14/04/2025
 transition: linear
 fontsize: 10

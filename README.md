@@ -47,15 +47,22 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
           * Aula Teórica 2: [Slides Yuri - Decisão](./slides_yuri/02-Decisao.pdf)
           * Aula Prática 2: [Slides Yuri - LAB Decisão](./slides_yuri/02P-LAB-Decisao.pdf)
    3. Repetição Condicional (pular Repetição Contável)
-      - **Conceitos novos:** *`while`*, *escopo de variáveis*, *indentação (reforço)*, *operadores +=, -=, \*=, /=*
+      - **Conceitos novos:** *`while`*, *`break`*, *escopo de variáveis*, *indentação (reforço)*, *operadores +=, -=, \*=, /=*
       - Slides:
           * Aula Teórica 3: [Slides Yuri - Repetição Condicional](./slides_yuri/03-Repeticao-Condicional.pdf)
           * Aula Prática 3: [Slides Yuri - LAB Repetição Condicional](./slides_yuri/03P-Repeticao-Condicional.pdf)
-   4. Laços Aninhados
-      - **Conceitos novos:** *`break`*, *`continue`*, *`pass`*, *escopo de variáveis (reforço)*, *indentação (reforço)*, *expressão condicional? (x=if-else)*
+   4. Repetição Contável e Laços Aninhados
+      - **Conceitos novos:** *`for`*, *built-in `range`*, *`continue`*, *`pass`*, *escopo de variáveis (reforço)*, *indentação (reforço)*
       - Slides:
-          * Aula Teórica 4: Slides - Laços Aninhados (A FAZER!) - Não usar for!
+          * Aula Teórica 4: [Slides Igor - Laços](./slides/4-lacos/4-lacos.pdf)
+          * Aula Teórica 4: [Slides Yuri - Laços Aninhados](./slides_yuri/04-Lacos-Aninhados.pdf)
           * Aula Prática 4: [Slides Yuri - LAB Laços Aninhados](./slides_yuri/04P-LAB-Lacos-Aninhados.pdf)
+
+   - Revisão de Conteúdo
+   - Listas de Exercícios
+      * [Lista 01 Decisão Yuri](./listas-exercicios/Lista-01-Decisao-Yuri.pdf)
+      * [Lista 02 Repetição Yuri](./listas-exercicios/Lista-02-Repeticao-Yuri.pdf)
+      * Lista Prática (a fazer!) - Uso de GitHub / Notebooks / assistentes de programação
           
    5. Depuração e Uso de Assistentes de Programação
       - **Conceitos novos:** *`prompt`*, *LLM*, *GPT*, *IDE (reforço)*, *depuração*, etc
@@ -64,12 +71,6 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
       - A aula teórica irá focar em aspectos de depuração de código, como "fazer o chinês" na mão, e também mostrar como ferramentas de depuração em IDEs podem ajudar a rastrear problemas
       - A aula prática irá trazer tarefas mais complexas e ver como assistentes de programação podem ajudar, buscando lidar com seus erros, alucinações, fuga do escopo e estratégias para contornar essas limitações
       - Extra: aula prática de jogo da velha - [Yuri Completar Programação Python](http://profs.ic.uff.br/~yuri/python/velha.py) 
-
-   - Revisão de Conteúdo
-   - Listas de Exercícios
-      * [Lista 01 Decisão Yuri](./listas-exercicios/Lista-01-Decisao-Yuri.pdf)
-      * [Lista 02 Repetição Yuri](./listas-exercicios/Lista-02-Repeticao-Yuri.pdf)
-      * Lista Prática (a fazer!) - Uso de GitHub / Notebooks / assistentes de programação
 
    - Primeira avaliação escrita: sem consulta e sem utilizar recursos de linguagem mais avançados (como listas e for-range/repetições contáveis)!
 

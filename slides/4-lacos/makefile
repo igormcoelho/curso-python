@@ -1,6 +1,6 @@
-MDFILE=9-lacos.md
+MDFILE=4-lacos.md
 OUTHTML=index.html
-OUTPDF=9-lacos.pdf
+OUTPDF=4-lacos.pdf
 
 all: deps
 	/usr/bin/pandoc -s -V revealjs-url=./reveal.js --standalone -V theme=beige -s -t revealjs \
