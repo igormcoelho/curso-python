@@ -56,8 +56,8 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
    4. Repetição Contável e Laços Aninhados
       - **Conceitos novos:** *`for`*, *built-in `range`*, *`continue`*, *`pass`*, *escopo de variáveis (reforço)*, *indentação (reforço)*
       - Slides:
-          * Aula Teórica 4: [Slides Igor - Laços](./slides/4-lacos/4-lacos.pdf)
-          * Aula Teórica 4: [Slides Yuri - Laços Aninhados](./slides_yuri/04-Lacos-Aninhados.pdf)
+          * Aula Teórica 4 (parte 1/2): [Slides Igor - Laços](./slides/4-lacos/4-lacos.pdf)
+          * Aula Teórica 4 (parte 2/2): [Slides Yuri - Laços Aninhados](./slides_yuri/04-Lacos-Aninhados.pdf)
           * Aula Prática 4: [Slides Yuri - LAB Laços Aninhados](./slides_yuri/04P-LAB-Lacos-Aninhados.pdf)
 
    - Revisão de Conteúdo
