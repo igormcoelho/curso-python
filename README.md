@@ -4,6 +4,8 @@ Materiais gerais de Lógica de Programação em Python do [Prof. Igor Machado Co
 
 ![last-commit](https://img.shields.io/github/last-commit/igormcoelho/curso-python)
 
+Lista completa de cursos: [igormcoelho/cursos](https://github.com/igormcoelho/cursos/)
+
 Lista completa de módulos no repositório:
 
 - A definir
