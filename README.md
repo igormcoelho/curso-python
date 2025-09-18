@@ -86,8 +86,8 @@ II. Parte 2 - Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes d
    6. Cap.6 - Vetores, Listas, Ranges
       - **Conceitos novos:** *built-in `list()`*, *built-in `range()`*, *`for`*, *`in`*, *tipo de valor vs tipo de referência*,  *operador +*, *operador \**, *built-in `len()`*, *built-in `del`*, *slices*
       - Slides:
-          * Aula Teórica 5: [Slides Yuri - Vetores](./slides_yuri/05-Vetores.pdf)
-          * Aula Prática 5: [Slides Yuri - LAB Vetores](./slides_yuri/05P-Vetores.pdf)
+          * Aula Teórica 6: [Slides Yuri - Vetores](./slides_yuri/05-Vetores.pdf)
+          * Aula Prática 6: [Slides Yuri - LAB Vetores](./slides_yuri/05P-Vetores.pdf)
           * Extra: adicionar material sobre *for* e remover menções a Dicionários (não faz parte do conteúdo!)
    7. Cap.7 - Rotinas (Modularização I)
       - **Conceitos novos:** *`def`*, *rotinas*, *funções*, *procedimentos*, *`return`*, *parâmetros*, *argumentos*, *passagem por valor vs passagem por referência*, *pilha de execução*, *escopo de variáveis (reforço)*, *`global`*,  *argumentos posicionais vs nomeados*, *operador ponto (.) para acesso de funções built-ins* 
