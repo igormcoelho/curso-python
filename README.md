@@ -121,7 +121,6 @@ II. Parte 2 - Vetores, Rotinas e Tipos Agregados (apoio parcial de assistentes d
 III. Parte 3 (apoio total de assistentes de programação)
 
    10. Cap.10 - Matrizes, *List Comprehension* e Pacotes/Importação (Modularização IV)
-      
       - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, `import`
       - Slides:
           * Aula Teórica 10: [Slides Yuri - Matrizes](./slides_yuri/09-Matrizes.pdf)
