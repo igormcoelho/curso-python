@@ -48,8 +48,10 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
       - Slides:
           * Aula Teórica 2: [Slides Yuri - Decisão](./slides_yuri/02-Decisao.pdf)
           * Aula Prática 2: [Slides Yuri - LAB Decisão](./slides_yuri/02P-LAB-Decisao.pdf)
-   3. Repetição Condicional (pular Repetição Contável)
+   3. Repetição Condicional
       - **Conceitos novos:** *`while`*, *`break`*, *escopo de variáveis*, *indentação (reforço)*, *operadores +=, -=, \*=, /=*
+      - Extra Opcional: `import random` e `random.randint(a,b)`, para tornar exercícios mais legais! (sem entrar em muitos detalhes de sintaxe...)
+      - Extra Opcional II: `random.seed(valor)`, para mostrar um pouco o conceito de pseudo-aleatoriedade.
       - Slides:
           * Aula Teórica 3: [Slides Yuri - Repetição Condicional](./slides_yuri/03-Repeticao-Condicional.pdf)
           * Aula Prática 3: [Slides Yuri - LAB Repetição Condicional](./slides_yuri/03P-Repeticao-Condicional.pdf)
@@ -62,6 +64,8 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
           * Aula Prática 4: [Slides Yuri - LAB Laços Aninhados](./slides_yuri/04P-LAB-Lacos-Aninhados.pdf)
 
    - Revisão de Conteúdo
+      * Extra: aula prática de jogo da velha - [Yuri Completar Programação Python](http://profs.ic.uff.br/~yuri/python/velha.py) 
+      
    - Listas de Exercícios
       * [Lista 01 Decisão Yuri](./listas-exercicios/Lista-01-Decisao-Yuri.pdf)
       * [Lista 02 Repetição Yuri](./listas-exercicios/Lista-02-Repeticao-Yuri.pdf)
@@ -73,7 +77,6 @@ I. Parte 1 - Pensamento computacional e sintaxe básica do Python (evitar assist
           * A Fazer!
       - A aula teórica irá focar em aspectos de depuração de código, como "fazer o chinês" na mão, e também mostrar como ferramentas de depuração em IDEs podem ajudar a rastrear problemas
       - A aula prática irá trazer tarefas mais complexas e ver como assistentes de programação podem ajudar, buscando lidar com seus erros, alucinações, fuga do escopo e estratégias para contornar essas limitações
-      - Extra: aula prática de jogo da velha - [Yuri Completar Programação Python](http://profs.ic.uff.br/~yuri/python/velha.py) 
 
    - Primeira avaliação escrita: sem consulta e sem utilizar recursos de linguagem mais avançados (como listas e for-range/repetições contáveis)!
 
