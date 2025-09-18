@@ -122,18 +122,18 @@ III. Parte 3 (apoio total de assistentes de programação)
 
    10. Cap.10 - Matrizes, *List Comprehension* e Pacotes/Importação (Modularização IV)
          - **Conceitos novos:** *rotinas (reforço)*, *pilha de execução (reforço)*, `import`
-      - Slides:
-         * Aula Teórica 10: [Slides Yuri - Matrizes](./slides_yuri/09-Matrizes.pdf)
-         * Aula Prática 10: [Slides Yuri - LAB Matrizes](./slides_yuri/09P-Matrizes.pdf)
-         * A fazer: slides de list comprehension e de importação de pacotes
+         - Slides:
+            * Aula Teórica 10: [Slides Yuri - Matrizes](./slides_yuri/09-Matrizes.pdf)
+            * Aula Prática 10: [Slides Yuri - LAB Matrizes](./slides_yuri/09P-Matrizes.pdf)
+            * A fazer: slides de list comprehension e de importação de pacotes
 
    11. Cap.11 - Escrita/Leitura de Arquivos Texto
          - Slides:
-         * Aula Teórica 11: [Slides Yuri - Arquivos](./slides_yuri/10-Arquivos.pdf)
-         * Aula Prática 11: [Slides Yuri - LAB Arquivos](./slides_yuri/10P-LAB-Arquivos.pdf)
-         * A fazer: aumentar conteúdo nessa parte! Ideia: tratamento de exceções? É comum em arquivos...
-         * OBS: o Cap 11 pode ser oferecido juntamente com o Cap 10, da forma como está.
-          
+            * Aula Teórica 11: [Slides Yuri - Arquivos](./slides_yuri/10-Arquivos.pdf)
+            * Aula Prática 11: [Slides Yuri - LAB Arquivos](./slides_yuri/10P-LAB-Arquivos.pdf)
+            * A fazer: aumentar conteúdo nessa parte! Ideia: tratamento de exceções? É comum em arquivos...
+            * OBS: o Cap 11 pode ser oferecido juntamente com o Cap 10, da forma como está.
+            
    - Revisão de Conteúdo
    - Última avaliação ou Trabalho
         * Caso não tenha outra prova, juntar com partes anteriores!
